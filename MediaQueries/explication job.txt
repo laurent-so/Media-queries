@@ -1,0 +1,11 @@
+Bonjour/Bonsoir celui/celle qui va me corriger, alors pour ce sujet, je n'ai pas beaucoup utilisé les media quieries à part
+dans mon voyage.css, en effet j'ai fait mon site en prenant en compte ceux qui verraient mon site sur téléphone donc on peut
+dire que mon site est responsive sans que j'ai utilisé les media queries. J'ai bien compris à quoi ça servait, je sais par 
+exemple que je pouvais faire une requête du genre : titre à 24px pour les téléphones avec ça : 
+@media (max-width:600px) { 
+h1 {
+font-size: 24px;
+}
+}
+au-delà de 600px de largeur de la zone d'affichage, le titre ne sera pas à 24px de taille, elle sera à une valeur par défaut 
+ou une valeur défini dans mon css.
